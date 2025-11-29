@@ -1,4 +1,4 @@
-![2025-11-29 14-17-53](https://github.com/user-attachments/assets/cbc3216b-c163-4647-8175-f3fd6cc1d778)NAMA : MUHAMMAD IMAM SALAFUDIN
+NAMA : MUHAMMAD IMAM SALAFUDIN
 
 NIM : H1H024067
 
