@@ -8,6 +8,7 @@ SHIFT AKHIR : B
 
 
 PokéCare adalah sebuah aplikasi web berbasis PHP yang dirancang untuk mengelola dan melatih Pokémon, khususnya Fearow yang merupakan Pokémon tipe Flying.
+
 Pokemon.php (Class Abstrak)
 File ini adalah fondasi dari seluruh sistem Pokémon dalam aplikasi. Di dalamnya terdapat class abstrak Pokemon yang tidak dapat langsung diinstansiasi, melainkan berfungsi sebagai blueprint (cetak biru) bagi semua Pokémon spesifik. Class ini memiliki properti dasar yang wajib dimiliki oleh semua Pokémon ($name, $type, $level, $hp, $specialMove) yang dilindungi dengan visibility protected untuk menerapkan Encapsulation. Untuk berinteraksi dengan properti ini, hanya diizinkan melalui getter methods (
 getName()
