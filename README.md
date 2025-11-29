@@ -1,4 +1,4 @@
-NAMA : MUHAMMAD IMAM SALAFUDIN
+![2025-11-29 14-17-53](https://github.com/user-attachments/assets/cbc3216b-c163-4647-8175-f3fd6cc1d778)NAMA : MUHAMMAD IMAM SALAFUDIN
 
 NIM : H1H024067
 
@@ -53,7 +53,8 @@ train()
 saveFearow()
 , mencatat ke riwayat dengan 
 addTrainingHistory()
-, lalu redirect ke result.php.
+, lalu redirect ke result.php
+
 
 result.php (Hasil)
 Menampilkan perbandingan before/after (Level dan HP) dengan indikator peningkatan. Validasi session, tampilkan hasil, lalu unset() untuk mencegah reload.
